@@ -1,0 +1,45 @@
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Task Tracker.exe.config
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Task Tracker.exe
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Task Tracker.pdb
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.AssemblyReference.cache
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.SuggestedBindingRedirects.cache
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task_Tracker.Form1.resources
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task_Tracker.Properties.Resources.resources
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.GenerateResource.cache
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.CoreCompileInputs.cache
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.exe
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.pdb
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\MySql.Data.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Memory.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Numerics.Vectors.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Buffers.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\MySql.Data.xml
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.CopyComplete
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task_Tracker.Form2_user_input.resources
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\BouncyCastle.Cryptography.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Google.Protobuf.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Compression.LZ4.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Hash.xxHash.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.IO.Pipelines.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\ZstdSharp.dll
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\BouncyCastle.Cryptography.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Google.Protobuf.pdb
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Google.Protobuf.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Compression.LZ4.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\K4os.Hash.xxHash.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Buffers.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.IO.Pipelines.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Memory.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Numerics.Vectors.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c++\projects\Task Tracker\Task Tracker\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c++\projects\Task Tracker\Task Tracker\obj\Debug\Task_Tracker.Form3_delete_items.resources
